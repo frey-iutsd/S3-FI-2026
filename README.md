@@ -8,3 +8,4 @@ Le classeur à remettre est distribué par le devoir Teams de la séance : trava
 | Séance | Date | Thème |
 |---|---|---|
 | [1](seance1/) | mer. 4 nov. 2026 | Remise en route et premiers tableaux |
+| [2](seance2/) | mer. 18 nov. 2026 | Rechercher et relier des tableaux (classeur `seance2-info1.xlsx` ou `seance2-info2.xlsx` selon votre groupe) |
